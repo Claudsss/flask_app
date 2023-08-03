@@ -1,0 +1,10 @@
+2023-08-03 09:17:09 - None - None - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-03 09:17:09 - None - None - INFO - [33mPress CTRL+C to quit[0m
+2023-08-03 09:17:09 - None - None - INFO -  * Restarting with stat
+2023-08-03 09:17:10 - None - None - WARNING -  * Debugger is active!
+2023-08-03 09:17:10 - None - None - INFO -  * Debugger PIN: 710-956-102
+2023-08-03 09:17:12 - None - None - INFO - 127.0.0.1 - - [03/Aug/2023 09:17:12] "[32mGET / HTTP/1.1[0m" 302 -
+2023-08-03 09:17:13 - None - None - INFO - 127.0.0.1 - - [03/Aug/2023 09:17:13] "GET /login?next=/ HTTP/1.1" 200 -
+2023-08-03 09:17:13 - None - None - INFO - 127.0.0.1 - - [03/Aug/2023 09:17:13] "GET /static/index.js HTTP/1.1" 200 -
+2023-08-03 09:17:14 - None - None - INFO - 127.0.0.1 - - [03/Aug/2023 09:17:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
